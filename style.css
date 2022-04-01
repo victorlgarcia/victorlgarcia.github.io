@@ -1,0 +1,41 @@
+body{
+    font-family: 'Karla', sans-serif;
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 60px;
+    color: #3b3b3b;  
+}
+
+p {
+    font-size: 20px;
+    color: rgb(126, 123, 123);
+}
+
+
+h3 {
+    font-size: 40px;
+    color: #3b3b3b;
+}
+
+.habilidade {
+    font-size: 25px;
+}
+
+.fotovictor {
+    border-radius: 100%;
+}
+
+.menu {
+    color: white;
+    background-color: #3b3b3b;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    text-decoration-line: none;
+    border-radius: 4px; 
+    margin: 20px;
+    padding: 10px 30px
+    
+}
